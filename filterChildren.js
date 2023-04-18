@@ -2,7 +2,7 @@ import {useAuth} from './AuthProvider';
 import {Children} from 'react';
 
 const filterChildren = (children) => {
-  const {access = null} = useAuth();
+  const {access} = useAuth() || {};
   if (!access) {
     return children;
   }
