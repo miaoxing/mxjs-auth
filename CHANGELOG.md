@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/miaoxing/mxjs-auth/compare/v1.1.0...v1.1.1) (2023-04-18)
+
+
+### Bug Fixes
+
+* **auth:** 组件不在 `AuthProvider` 中时，调用 `filterChildren` 错误 ([1924c66](https://github.com/miaoxing/mxjs-auth/commit/1924c663dd66193f5a5e012863540a2b6090a40a))
+
 # [1.1.0](https://github.com/miaoxing/mxjs-auth/compare/v1.0.0...v1.1.0) (2023-04-15)
 
 
