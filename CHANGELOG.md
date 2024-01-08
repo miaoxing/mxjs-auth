@@ -1,3 +1,13 @@
+## [1.1.7](https://github.com/miaoxing/mxjs-auth/compare/v1.1.6...v1.1.7) (2024-01-08)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.0.0` to `9.1.0`
+
 ## [1.1.6](https://github.com/miaoxing/mxjs-auth/compare/v1.1.5...v1.1.6) (2023-12-31)
 
 
