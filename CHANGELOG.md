@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/miaoxing/mxjs-auth/compare/v1.1.7...v1.2.0) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([f66c72d](https://github.com/miaoxing/mxjs-auth/commit/f66c72d5db66113deb09c0dd4c52b1a8ece4123c))
+
 ## [1.1.7](https://github.com/miaoxing/mxjs-auth/compare/v1.1.6...v1.1.7) (2024-01-08)
 
 
