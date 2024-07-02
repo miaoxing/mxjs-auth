@@ -1,4 +1,12 @@
-export {AuthProvider, useAuth} from './AuthProvider';
-export Access, {withAccess} from './Access';
+import { AuthProvider, useAuth } from './AuthProvider';
+import Access, { withAccess } from './Access';
 // @experimental
-export filterChildren from './filterChildren';
+import filterChildren from './filterChildren';
+
+export {
+  AuthProvider,
+  useAuth,
+  Access,
+  withAccess,
+  filterChildren,
+};
