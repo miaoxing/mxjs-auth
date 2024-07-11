@@ -9,7 +9,7 @@ const defaultPermissions = {
 };
 
 const convertPermissions = (userPermissions) => {
-  const permissions = {...defaultPermissions};
+  const permissions = structuredClone(defaultPermissions);
   for (const permission in userPermissions) {
     if (permission.includes('[id]')) {
       permissions.dynamic.push(new RegExp(permission.replaceAll('[id]', '(.+?)')));
