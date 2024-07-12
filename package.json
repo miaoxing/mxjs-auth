@@ -20,7 +20,8 @@
     "@miaoxing/dev": "^9.1.1",
     "@testing-library/react": "^14",
     "react": ">=16.13.1",
-    "react-dom": ">=16.13.1"
+    "react-dom": ">=16.13.1",
+    "core-js": "^3.6.5"
   },
   "peerDependencies": {
     "react": ">=16.13.1",

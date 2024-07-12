@@ -1,3 +1,4 @@
+import 'core-js/stable/structured-clone';
 import {AuthProvider, useAuth} from '../index';
 import {render} from '@testing-library/react';
 
