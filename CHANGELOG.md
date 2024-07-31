@@ -1,3 +1,19 @@
+## [1.2.2](https://github.com/miaoxing/mxjs-auth/compare/v1.2.1...v1.2.2) (2024-07-31)
+
+
+### Bug Fixes
+
+* **auth:** 首次加载时，用户会缓存了所有权限 ([017b194](https://github.com/miaoxing/mxjs-auth/commit/017b19443333c0bb6d3e0d194fed405e53a8a82b))
+* `export default from` 改为标准语法 ([d3c503b](https://github.com/miaoxing/mxjs-auth/commit/d3c503bcc278914e5a82fc09ee4b8533f6e922cc))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+
 ## [1.2.1](https://github.com/miaoxing/mxjs-auth/compare/v1.2.0...v1.2.1) (2024-03-31)
 
 
