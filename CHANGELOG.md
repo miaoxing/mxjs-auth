@@ -1,3 +1,18 @@
+# [1.3.0](https://github.com/miaoxing/mxjs-auth/compare/v1.2.4...v1.3.0) (2024-12-30)
+
+
+### Features
+
+* **auth, experimental:** 移除不再使用的 `filterChildren` 方法 ([6977c8c](https://github.com/miaoxing/mxjs-auth/commit/6977c8cb122b4861b022661a0b4d86d580d35d7e))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.2.0` to `9.3.0`
+
 ## [1.2.4](https://github.com/miaoxing/mxjs-auth/compare/v1.2.3...v1.2.4) (2024-09-01)
 
 
